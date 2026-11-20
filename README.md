@@ -8,9 +8,9 @@ des agents de programmation qui travaillent en autonomie, supervisés, testés e
 - **[agent-supervisor](https://github.com/Dryl04/agent-supervisor)** : supervise des sessions Claude Code dans tmux et les débloque sans LLM (menus, permissions, relances, file de chantiers, alertes).
 - **[claude-migrate](https://github.com/Dryl04/claude-migrate)** : migre un projet Claude Code (code, historique des conversations, configuration) vers un serveur distant, puis le resynchronise.
 - **[County](https://github.com/Dryl04/County)** : API REST de gestion de budget personnel (FastAPI, PostgreSQL, JWT).
-- **[multi-timer-pop-up](https://github.com/Dryl04/multi-timer-pop-up)** : extension Chrome : jusqu'à 7 minuteurs simultanés dans des fenêtres popup indépendantes.
+- **[Showtime](https://github.com/Dryl04/Showtime)** : réservation de concerts avec billets QR code et e-mails (NestJS, MongoDB), projet Epitech.
 
-Projets Epitech : [Showtime](https://github.com/Dryl04/Showtime) (réservation de concerts, NestJS) et [YOWL](https://github.com/Dryl04/YOWL) (réseau social, Vue 3).
+Également : [YOWL](https://github.com/Dryl04/YOWL), réseau social en Vue 3 (projet Epitech).
 
 #### Projet client (code privé)
 
