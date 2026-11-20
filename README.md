@@ -9,8 +9,10 @@ des agents de programmation qui travaillent en autonomie, supervisés, testés e
 - **[claude-migrate](https://github.com/Dryl04/claude-migrate)** : migre un projet Claude Code (code, historique des conversations, configuration) vers un serveur distant, puis le resynchronise.
 - **[County](https://github.com/Dryl04/County)** : API REST de gestion de budget personnel (FastAPI, PostgreSQL, JWT).
 - **[Showtime](https://github.com/Dryl04/Showtime)** : réservation de concerts avec billets QR code et e-mails (NestJS, MongoDB), projet Epitech.
+- **[Voice-Scribe](https://github.com/Dryl04/Voice-Scribe)** : prise de notes vocale hors ligne dans le navigateur, avec Whisper exécuté en local (React, Transformers.js, WebGPU).
+- **[Useful API](https://github.com/Dryl04/useful_api_landry.adamaze)** : API Laravel à modules activables, avec raccourcisseur d'URL et front Vue 3, projet Epitech.
 
-Également : [YOWL](https://github.com/Dryl04/YOWL), réseau social en Vue 3 (projet Epitech).
+Autres projets : [YOWL](https://github.com/Dryl04/YOWL) (réseau social en Vue 3, Epitech) · [Post-It](https://github.com/Dryl04/Post-It) (notes en Vue 3 et Pinia, Epitech) · [multi-timer-pop-up](https://github.com/Dryl04/multi-timer-pop-up).
 
 #### Projet client (code privé)
 
